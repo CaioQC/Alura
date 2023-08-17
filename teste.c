@@ -9,6 +9,5 @@ int main()
     scanf("%d,", &X);
     scanf("%d,", &Y);
     printf("O valor de suas variaveis X e Y são: %d, %d", X, Y);
-
     
 }
